@@ -1,0 +1,3 @@
+[submodule "www-nginx/auth/ldap/nginx-ldap-auth"]
+	path = www-nginx/auth/ldap/nginx-ldap-auth
+	url = https://github.com/nginxinc/nginx-ldap-auth.git
